@@ -1,0 +1,16 @@
+C:\Users\jose\source\repos\media_player\media_player\bin\Debug\media_player.exe.config
+C:\Users\jose\source\repos\media_player\media_player\bin\Debug\media_player.exe
+C:\Users\jose\source\repos\media_player\media_player\bin\Debug\media_player.pdb
+C:\Users\jose\source\repos\media_player\media_player\bin\Debug\Interop.WMPLib.dll
+C:\Users\jose\source\repos\media_player\media_player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\jose\source\repos\media_player\media_player\obj\Debug\media_player.csproj.AssemblyReference.cache
+C:\Users\jose\source\repos\media_player\media_player\obj\Debug\media_player.csproj.SuggestedBindingRedirects.cache
+C:\Users\jose\source\repos\media_player\media_player\obj\Debug\Interop.WMPLib.dll
+C:\Users\jose\source\repos\media_player\media_player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\jose\source\repos\media_player\media_player\obj\Debug\media_player.csproj.ResolveComReference.cache
+C:\Users\jose\source\repos\media_player\media_player\obj\Debug\media_player.Form1.resources
+C:\Users\jose\source\repos\media_player\media_player\obj\Debug\media_player.Properties.Resources.resources
+C:\Users\jose\source\repos\media_player\media_player\obj\Debug\media_player.csproj.GenerateResource.cache
+C:\Users\jose\source\repos\media_player\media_player\obj\Debug\media_player.csproj.CoreCompileInputs.cache
+C:\Users\jose\source\repos\media_player\media_player\obj\Debug\media_player.exe
+C:\Users\jose\source\repos\media_player\media_player\obj\Debug\media_player.pdb
